@@ -1,0 +1,53 @@
+{
+    "Name": "Destruction Stone Crystal",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 60
+        },
+        {
+            "Number": 2,
+            "RunningSum": 150
+        },
+        {
+            "Number": 3,
+            "RunningSum": 270
+        },
+        {
+            "Number": 4,
+            "RunningSum": 410
+        },
+        {
+            "Number": 5,
+            "RunningSum": 580
+        },
+        {
+            "Number": 6,
+            "RunningSum": 780
+        },
+        {
+            "Number": 7,
+            "RunningSum": 1010
+        },
+        {
+            "Number": 8,
+            "RunningSum": 1270
+        },
+        {
+            "Number": 9,
+            "RunningSum": 1560
+        },
+        {
+            "Number": 10,
+            "RunningSum": 1890
+        },
+        {
+            "Number": 11,
+            "RunningSum": 2250
+        },
+        {
+            "Number": 12,
+            "RunningSum": 2650
+        }
+    ]
+}

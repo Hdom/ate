@@ -1,0 +1,17 @@
+{
+    "Name": "Solar Grace",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 550
+        },
+        {
+            "Number": 2,
+            "RunningSum": 1180
+        },
+        {
+            "Number": 3,
+            "RunningSum": 1890
+        }
+    ]
+}

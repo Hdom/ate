@@ -1,0 +1,25 @@
+{
+    "Name": "Solar Protection",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 590
+        },
+        {
+            "Number": 2,
+            "RunningSum": 1260
+        },
+        {
+            "Number": 3,
+            "RunningSum": 2020
+        },
+        {
+            "Number": 4,
+            "RunningSum": 2870
+        },
+        {
+            "Number": 5,
+            "RunningSum": 3820
+        }
+    ]
+}
