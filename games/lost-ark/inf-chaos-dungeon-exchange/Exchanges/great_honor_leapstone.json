@@ -1,0 +1,65 @@
+{
+    "Name": "Great Honor Leapstone",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 130
+        },
+        {
+            "Number": 2,
+            "RunningSum": 300
+        },
+        {
+            "Number": 3,
+            "RunningSum": 500
+        },
+        {
+            "Number": 4,
+            "RunningSum": 740
+        },
+        {
+            "Number": 5,
+            "RunningSum": 1020
+        },
+        {
+            "Number": 6,
+            "RunningSum": 1330
+        },
+        {
+            "Number": 7,
+            "RunningSum": 1690
+        },
+        {
+            "Number": 8,
+            "RunningSum": 2090
+        },
+        {
+            "Number": 9,
+            "RunningSum": 2530
+        },
+        {
+            "Number": 10,
+            "RunningSum": 3030
+        },
+        {
+            "Number": 11,
+            "RunningSum": 3580
+        },
+        {
+            "Number": 12,
+            "RunningSum": 4180
+        },
+        {
+            "Number": 13,
+            "RunningSum": 4830
+        },
+        {
+            "Number": 14,
+            "RunningSum": 5540
+        },
+        {
+            "Number": 15,
+            "RunningSum": 6320
+        }
+    ]
+}

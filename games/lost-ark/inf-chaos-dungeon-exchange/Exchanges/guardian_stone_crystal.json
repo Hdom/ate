@@ -1,0 +1,65 @@
+{
+    "Name": "Guardian Stone Crystal",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 10
+        },
+        {
+            "Number": 2,
+            "RunningSum": 50
+        },
+        {
+            "Number": 3,
+            "RunningSum": 110
+        },
+        {
+            "Number": 4,
+            "RunningSum": 190
+        },
+        {
+            "Number": 5,
+            "RunningSum": 290
+        },
+        {
+            "Number": 6,
+            "RunningSum": 410
+        },
+        {
+            "Number": 7,
+            "RunningSum": 550
+        },
+        {
+            "Number": 8,
+            "RunningSum": 710
+        },
+        {
+            "Number": 9,
+            "RunningSum": 900
+        },
+        {
+            "Number": 10,
+            "RunningSum": 1110
+        },
+        {
+            "Number": 11,
+            "RunningSum": 1340
+        },
+        {
+            "Number": 12,
+            "RunningSum": 1590
+        },
+        {
+            "Number": 13,
+            "RunningSum": 1870
+        },
+        {
+            "Number": 14,
+            "RunningSum": 2170
+        },
+        {
+            "Number": 15,
+            "RunningSum": 2490
+        }
+    ]
+}

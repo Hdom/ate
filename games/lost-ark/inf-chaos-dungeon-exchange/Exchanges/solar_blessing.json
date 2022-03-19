@@ -1,0 +1,17 @@
+{
+    "Name": "Solar Blessing",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 570
+        },
+        {
+            "Number": 2,
+            "RunningSum": 1220
+        },
+        {
+            "Number": 3,
+            "RunningSum": 1950
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "Name": "Honor Leapstone",
+    "Exchanges": [
+        {
+            "Number": 1,
+            "RunningSum": 100
+        },
+        {
+            "Number": 2,
+            "RunningSum": 230
+        },
+        {
+            "Number": 3,
+            "RunningSum": 400
+        },
+        {
+            "Number": 4,
+            "RunningSum": 600
+        },
+        {
+            "Number": 5,
+            "RunningSum": 830
+        },
+        {
+            "Number": 6,
+            "RunningSum": 1100
+        },
+        {
+            "Number": 7,
+            "RunningSum": 1400
+        },
+        {
+            "Number": 8,
+            "RunningSum": 1740
+        },
+        {
+            "Number": 9,
+            "RunningSum": 2120
+        },
+        {
+            "Number": 10,
+            "RunningSum": 2540
+        },
+        {
+            "Number": 11,
+            "RunningSum": 3000
+        },
+        {
+            "Number": 12,
+            "RunningSum": 3510
+        }
+    ]
+}

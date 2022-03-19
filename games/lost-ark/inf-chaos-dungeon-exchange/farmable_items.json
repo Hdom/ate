@@ -1,0 +1,58 @@
+{
+    "FarmableItems": [
+        {
+            "Name": "Honor Leapstone",
+            "ExchangesMade": 0,
+            "Price": 200,
+            "FilePath": ".\\Exchanges\\honor_leapstone.json"
+        },
+        {
+            "Name": "Great Honor Leapstone",
+            "ExchangesMade": 0,
+            "Price": 829,
+            "FilePath": ".\\Exchanges\\great_honor_leapstone.json"
+        },
+        {
+            "Name": "Honor Pouch",
+            "ExchangesMade": 0,
+            "Price": 300,
+            "FilePath": ".\\Exchanges\\honor_pouch.json"
+        },
+        {
+            "Name": "Solar Grace",
+            "ExchangesMade": 0,
+            "Price": 105,
+            "FilePath": ".\\Exchanges\\solar_grace.json"
+        },
+        {
+            "Name": "Solar Blessing",
+            "ExchangesMade": 0,
+            "Price": 458,
+            "FilePath": ".\\Exchanges\\solar_blessing.json"
+        },
+        {
+            "Name": "Solar Protection",
+            "ExchangesMade": 0,
+            "Price": 925,
+            "FilePath": ".\\Exchanges\\solar_protection.json"
+        },
+        {
+            "Name": "Destruction Stone Crystal",
+            "ExchangesMade": 0,
+            "Price": 55,
+            "FilePath": ".\\Exchanges\\destruction_stone_crystal.json"
+        },
+        {
+            "Name": "Guardian Stone Crystal",
+            "ExchangesMade": 0,
+            "Price": 25,
+            "FilePath": ".\\Exchanges\\guardian_stone_crystal.json"
+        },
+        {
+            "Name": "Powder of Sage",
+            "ExchangesMade": 0,
+            "Price": 230,
+            "FilePath": ".\\Exchanges\\powder_of_sage.json"
+        }
+    ]
+}
