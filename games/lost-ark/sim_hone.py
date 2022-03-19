@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
+tier4wep = ['<("<)', '^("<)', '(^")>', '(>")>']
 tier3wep = [['1304', '+1', 100, [138, 32, 4, 0, 15860, 0]],
  ['1307', '+2', 100, [138, 32, 4, 0, 16240, 0]],
  ['1310', '+3', 100, [198, 32, 6, 0, 16640, 0]],
@@ -124,3 +125,4 @@ def sim_hone():
     print(shared_materials, armor_stones)
 
 sim_hone()
+for i in tier4wep: print(i)
